@@ -6,7 +6,7 @@ import { FaGithub, FaLinkedin, FaGitlab, FaEnvelope } from 'react-icons/fa'
 const HomeDesign = () => {
   return (
     <div>
-        <div className='grid gric-cols-1 sm:grid-cols-3 gap-8 max-w-[1200px] mx-auto py-8 bg-black'>
+        <div className='grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-[1200px] mx-auto py-8 bg-black'>
 
             <div className='col-span-1 my-auto mx-auto w-[300px] h-auto lg:w-[400px]'>
                 <div className='w-[300px] h-auto lg:w-[400px]'>
@@ -20,6 +20,7 @@ const HomeDesign = () => {
                         I'm a
                     </span> <br />
                     <TypeAnimation 
+                        className='text-3xl sm:text-4xl lg:text-6xl'
                         sequence={[
                             "Full Stack Developer",
                             1000,
@@ -43,7 +44,7 @@ const HomeDesign = () => {
                     <a href="/" className='px-6 py-3 w-full sm:w-auto sm:px-4 sm:py-2 text-center rounded-xl mb-2 sm:mb-0 sm:mr-4 bg-gradient-to-br from-blue-500 to-green-600 text-white'>
                         View Resume
                     </a>
-                    <a href="/" className='px-6 py-3 w-full sm:w-auto sm:px-4 sm:py-2 text-center rounded-xl mb-2 sm:mb-0 sm:mr-4 border border-gray-400 hover:bg-gradient-to-br from-blue-500 to-green-600 text-white hover:border-none'>
+                    <a href="#contact" className='px-6 py-3 w-full sm:w-auto sm:px-4 sm:py-2 text-center rounded-xl mb-2 sm:mb-0 sm:mr-4 border border-gray-400 hover:bg-gradient-to-br from-blue-500 to-green-600 text-white hover:border-none'>
                         Contact Me
                     </a>
 
