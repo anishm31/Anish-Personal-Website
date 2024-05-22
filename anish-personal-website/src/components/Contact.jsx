@@ -11,23 +11,23 @@ const Contact = () => {
             <div className='mt-6 bg-[#161616] rounded-xl'>
                 <div className='p-10'>
 
-                    <form action="#" method="POST">
+                    <form action="https://getform.io/f/paygojea" method="POST">
                         <div className='grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4'>
                             <div>
                                 <div className='mt-2.5 relative'>
-                                    <input type="text" name="" id="" placeholder='Your Name' className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-green-600'/>
+                                    <input type="text" name="name" id="" placeholder='Your Name' className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-green-600'/>
                                 </div>
                             </div>
 
                             <div>
                                 <div className='mt-2.5 relative'>
-                                    <input type="email" name="" id="" placeholder='Your Email' className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-green-600'/>
+                                    <input type="email" name="email" id="" placeholder='Your Email' className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-green-600'/>
                                 </div>
                             </div>
 
                             <div className='sm:col-span-2'>
                                 <div className='mt-2.5 relative'>
-                                    <textarea name="" id="" placeholder='Your Message' className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-green-600' rows="4">
+                                    <textarea name="message" id="" placeholder='Your Message' className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-green-600' rows="4">
                                     </textarea>
                                 </div>
                             </div>
