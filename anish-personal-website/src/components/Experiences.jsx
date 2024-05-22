@@ -39,24 +39,24 @@ const Experience = ({ title, company, dates, details, logo }) => {
 const Experiences = () => {
   const experiences = [
     {
-      title: 'Software Engineer',
-      company: 'Tech Company A',
-      dates: 'Jan 2020 - Present',
-      details: ['Developed web applications', 'Collaborated with cross-functional teams', 'Implemented new features and improvements'],
+      title: 'Software Engineering Intern',
+      company: 'JPMorgan Chase & Co.',
+      dates: 'June 2023 - Aug 2023',
+      details: ['Improved customer booking experience on the Chase travel portal (15+ million users) utilizing ASP.NET Core, Angular, and AWS', 'Developed an efficient external facing feature on the rental cars and price options pages to toggle between various payment options when viewing travel bookings', 'Created 6+ Angular components tied to 5+ services and APIs to retrieve/display the data corresponding to the selected form of payment (rewards points, dollars, or a combination of both)'],
       logo: jpmorgan,
     },
     {
-      title: 'Frontend Developer',
-      company: 'Tech Company B',
-      dates: 'Mar 2018 - Dec 2019',
-      details: ['Built responsive UI components', 'Worked with designers to create user-friendly interfaces', 'Maintained code quality through code reviews'],
+      title: 'Software Development Intern',
+      company: 'Paycom',
+      dates: 'May 2022 - Aug 2022',
+      details: ['Developed a full stack web application integrated with the Paycom software that enables the company to automate and digitize the process of nominating, approving, and awarding employee patches for various accomplishments', 'Boosted time efficiency of management in charge of the current Patch Program by 70% - utilizing PHP, MVC and React '],
       logo: paycom,
     },
     {
-      title: 'Intern',
-      company: 'Tech Company C',
-      dates: 'Jun 2017 - Aug 2017',
-      details: ['Assisted in software development', 'Performed testing and debugging', 'Contributed to team projects'],
+      title: 'Information Security Mentee',
+      company: 'City of Frisco',
+      dates: 'Oct 2019 - Dec 2021',
+      details: ['Worked with the Security Officer for the City of Frisco to further research Ethical Hacking and Network/App Security', 'Obtained guidance when preparing for national Cybersecurity Competitions, such as Cyberpatriot and Business Professionals of America (BPA) Computer Security Event', 'Placed 1st at the 2021 BPA National Competition and Gold t ier at the 2020 Cyberpatriot National Competition (Team Captain)'],
       logo: cityoffrisco,
     },
   ];
