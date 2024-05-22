@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Anish-Personal-Website/static/css/main.d509d23b.css",
+    "main.js": "/Anish-Personal-Website/static/js/main.93133260.js",
+    "static/media/syrianrefugees.jpg": "/Anish-Personal-Website/static/media/syrianrefugees.0f251d3a674f34a04f61.jpg",
+    "static/media/aboutpic.jpg": "/Anish-Personal-Website/static/media/aboutpic.e31cc672ca632decfbf0.jpg",
+    "static/media/jpmorgan.png": "/Anish-Personal-Website/static/media/jpmorgan.c903f0382bc86b63ae55.png",
+    "static/media/spin_the_spectrum_cover.jpg": "/Anish-Personal-Website/static/media/spin_the_spectrum_cover.968530ada07abde15404.jpg",
+    "static/media/cityoffrisco.png": "/Anish-Personal-Website/static/media/cityoffrisco.4c9328c3f78f68c14a9c.png",
+    "static/media/personalwebsite.png": "/Anish-Personal-Website/static/media/personalwebsite.28f0836b8b4a94e57a51.png",
+    "static/media/anish-headshot.png": "/Anish-Personal-Website/static/media/anish-headshot.4819b01ed80f31303d4e.png",
+    "static/media/dotnet.png": "/Anish-Personal-Website/static/media/dotnet.508ed78abc32bda7fbdb.png",
+    "static/media/cybersecurity.jpg": "/Anish-Personal-Website/static/media/cybersecurity.e6c0e455ab10905ccf78.jpg",
+    "static/media/flask.png": "/Anish-Personal-Website/static/media/flask.53b1690f0a8f735c008d.png",
+    "static/media/nbapredictions.jpg": "/Anish-Personal-Website/static/media/nbapredictions.0592c8095c37e33a4ce4.jpg",
+    "static/media/csharp.png": "/Anish-Personal-Website/static/media/csharp.1b9acfc18aa242a82ed0.png",
+    "static/media/php.png": "/Anish-Personal-Website/static/media/php.cf3797756272085fd960.png",
+    "static/media/c.png": "/Anish-Personal-Website/static/media/c.fbbcfb213b1f9905b955.png",
+    "static/media/python.png": "/Anish-Personal-Website/static/media/python.c3db4e5aa7969e6625bb.png",
+    "static/media/react.png": "/Anish-Personal-Website/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/javascript.png": "/Anish-Personal-Website/static/media/javascript.238898bc47786a7054c9.png",
+    "static/media/paycompic.jpg": "/Anish-Personal-Website/static/media/paycompic.d90dfb2e1301ee19e4ce.jpg",
+    "static/media/angular.png": "/Anish-Personal-Website/static/media/angular.5d580448d68567ea8cfb.png",
+    "static/media/sql.png": "/Anish-Personal-Website/static/media/sql.cbf2ae9291a0ba961388.png",
+    "static/media/nodejs.png": "/Anish-Personal-Website/static/media/nodejs.9fea1c7da2bd42ab93bf.png",
+    "static/media/java.png": "/Anish-Personal-Website/static/media/java.23b1534213e13a1378e5.png",
+    "static/media/html.png": "/Anish-Personal-Website/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Anish-Personal-Website/static/media/css.69a82c2d9e45c933a9cb.png",
+    "index.html": "/Anish-Personal-Website/index.html",
+    "main.d509d23b.css.map": "/Anish-Personal-Website/static/css/main.d509d23b.css.map",
+    "main.93133260.js.map": "/Anish-Personal-Website/static/js/main.93133260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d509d23b.css",
+    "static/js/main.93133260.js"
+  ]
+}
