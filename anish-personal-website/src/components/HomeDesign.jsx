@@ -41,7 +41,7 @@ const HomeDesign = () => {
                 </p>
 
                 <div className='my-8 flex items-center'>
-                    <a href="https://drive.google.com/file/d/14bosMPmGKwVpxKuhS6u9LIjyb8PWZ9JB/view?usp=sharing" className='px-6 py-3 w-full sm:w-auto sm:px-4 sm:py-2 text-center rounded-xl mb-2 sm:mb-0 sm:mr-4 bg-gradient-to-br from-blue-500 to-green-600 text-white'>
+                    <a href="https://drive.google.com/file/d/1N2fLr7wTuS8LCbk4EOnZ9oJw3g7R_ah0/view?usp=sharing" className='px-6 py-3 w-full sm:w-auto sm:px-4 sm:py-2 text-center rounded-xl mb-2 sm:mb-0 sm:mr-4 bg-gradient-to-br from-blue-500 to-green-600 text-white'>
                         View Resume
                     </a>
                     <a href="#contact" className='px-6 py-3 w-full sm:w-auto sm:px-4 sm:py-2 text-center rounded-xl mb-2 sm:mb-0 sm:mr-4 border border-gray-400 hover:bg-gradient-to-br from-blue-500 to-green-600 text-white hover:border-none'>
