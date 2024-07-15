@@ -41,22 +41,39 @@ const Experiences = () => {
     {
       title: 'Software Engineering Intern',
       company: 'JPMorgan Chase & Co.',
-      dates: 'June 2023 - Aug 2023',
-      details: ['Improved customer booking experience on the Chase travel portal (15+ million users) utilizing ASP.NET Core, Angular, and AWS', 'Developed an efficient external facing feature on the rental cars and price options pages to toggle between various payment options when viewing travel bookings', 'Created 6+ Angular components tied to 5+ services and APIs to retrieve/display the data corresponding to the selected form of payment (rewards points, dollars, or a combination of both)'],
+      dates: 'June 2023 - Aug 2023, June 2024 - Aug 2024',
+      details: 
+      [
+        'Leveraged Spring Boot, React, and AWS ECS to contribute to a platform tracking feature flag tests for 65M+ users', 
+        'Implemented UI and backend for a feature flag experiment registration form, boosting test setup efficiency by 60%',
+        'Achieved 90% code coverage with Jest, JUnit 5, and Cypress, ensuring reliability for the experimentation platform',
+        'Built a production ready feature on Chase travel portal to toggle between payment options on the rental cars page',
+        'Created 6+ Angular components and 5+ services/APIs with ASP.NET Core to display data for payment forms'
+      ],
       logo: jpmorgan,
     },
     {
       title: 'Software Development Intern',
       company: 'Paycom',
       dates: 'May 2022 - Aug 2022',
-      details: ['Developed a full stack web application integrated with the Paycom software that enables the company to automate and digitize the process of nominating, approving, and awarding employee patches for various accomplishments', 'Boosted time efficiency of management in charge of the current Patch Program by 70% - utilizing PHP, MVC and React '],
+      details: 
+      [
+        'Developed a web app integrated with Paycom to automate and digitize the employee patch nomination process', 
+        'Boosted management efficiency by 70% using React, PHP, and MVC for the Patch Program',
+        'Created 15+ RESTful API endpoints and 5+ SQL tables to manage database updates and track patch data'
+      ],
       logo: paycom,
     },
     {
       title: 'Information Security Mentee',
       company: 'City of Frisco',
       dates: 'Oct 2019 - Dec 2021',
-      details: ['Worked with the Security Officer for the City of Frisco to further research Ethical Hacking and Network/App Security', 'Obtained guidance when preparing for national Cybersecurity Competitions, such as Cyberpatriot and Business Professionals of America (BPA) Computer Security Event', 'Placed 1st at the 2021 BPA National Competition and Gold t ier at the 2020 Cyberpatriot National Competition (Team Captain)'],
+      details: 
+      [
+        'Collaborated with Cybersecurity Officer on ethical hacking and penetration testing using Kali Linux and Wireshark', 
+        'Researched networking protocols and encryption techniques for cyber competitions like CyberPatriot and BPA', 
+        'Placed 1st at the 2021 BPA Nationals and Gold tier at the 2020 CyberPatriot Nationals as Team Captain'
+      ],
       logo: cityoffrisco,
     },
   ];
